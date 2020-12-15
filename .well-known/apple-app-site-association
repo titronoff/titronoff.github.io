@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "MPB5FAC9MR.Pavel-Ivanovski.UniversalLink",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
